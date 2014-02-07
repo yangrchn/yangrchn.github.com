@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yangrchn.github.io/atom.xml" rel="self"/>
   <link href="http://yangrchn.github.io/"/>
-  <updated>2014-02-07T22:34:23+08:00</updated>
+  <updated>2014-02-07T22:39:22+08:00</updated>
   <id>http://yangrchn.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[中文测试]]></title>
+    <link href="http://yangrchn.github.io/blog/2014/02/07/zhong-wen-ce-shi/"/>
+    <updated>2014-02-07T22:38:14+08:00</updated>
+    <id>http://yangrchn.github.io/blog/2014/02/07/zhong-wen-ce-shi</id>
+    <content type="html"><![CDATA[<h2>这是用中文写的第一篇博文！</h2>
+
+<h3>据说还不错。</h3>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test Blog]]></title>
