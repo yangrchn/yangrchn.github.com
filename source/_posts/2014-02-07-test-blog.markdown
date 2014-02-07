@@ -1,0 +1,11 @@
+---
+layout: post
+title: "test blog"
+date: 2014-02-07 22:19:22 +0800
+comments: true
+categories: 
+---
+
+this is my first blog using octopress
+
+enjoy!
