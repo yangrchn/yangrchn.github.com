@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yangrchn.github.io/atom.xml" rel="self"/>
+  <link href="http://yangrchn.github.io/feed" rel="self"/>
   <link href="http://yangrchn.github.io/"/>
   <updated>2014-02-07T22:29:32+08:00</updated>
   <id>http://yangrchn.github.io/</id>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test Blog]]></title>
+    <title type="html"><![CDATA[test blog]]></title>
     <link href="http://yangrchn.github.io/blog/2014/02/07/test-blog/"/>
     <updated>2014-02-07T22:19:22+08:00</updated>
     <id>http://yangrchn.github.io/blog/2014/02/07/test-blog</id>
